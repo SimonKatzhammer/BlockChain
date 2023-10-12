@@ -28,6 +28,6 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: mvn verify
+      run: cd "Vorlesung Woche 1"/VL3 && mvn verify
 
 
