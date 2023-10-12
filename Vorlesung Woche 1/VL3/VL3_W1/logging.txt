@@ -1,0 +1,3 @@
+[main] INFO main.java.json_parser.Json_Parser - Anwendung startet schön :)
+[main] INFO main.java.json_parser.Json_Parser - Name übergeben erfolgreich
+[main] INFO main.java.json_parser.Json_Parser - erfolgreich alles
